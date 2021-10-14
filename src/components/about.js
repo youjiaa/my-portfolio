@@ -19,7 +19,13 @@ const About = () => {
               {data.aboutParaTwo}
               <br></br>
               <br></br>
+              {data.aboutPara13}
+              <br></br>
+              <br></br>
               {data.aboutParaThree}
+              <br></br>
+              <br></br>
+              {data.aboutPara14}
               <br></br>
               <br></br>
               {data.aboutPara4}
