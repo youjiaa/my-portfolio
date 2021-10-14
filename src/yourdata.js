@@ -17,30 +17,26 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Alice",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Frontend Developer",
     //Line 2 For Header
-    "products, brands,",
+    "Full-stack Engineer",
     //Line 3 For Header
-    "and experience",
+    "UI/UX Designer",
   ],
   //   Header Paragraph
-  headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
-
-  //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  headerParagraph: "alicewang194@gmail.com | +1 (872) 221-5589",
 
   // End Header Details -----------------------
 
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      title: "Client: ThreatConnect", //Project Title - Add Your Project Title Here
+      para: "Involved in desi \
+        dds",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
@@ -113,14 +109,29 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "- Over 4 years of IT experience including Web development, single page applications development using JAVASCRIPT, HTML, CSS, JQUERY, AJAX, and JSON technologies",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "- Experience in developing UI applications using HTML, HTML5, jQuery, and Bootstrap, AngularJS, ReactJS and JavaScript",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-  aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "- Skilled in Responsive design and UI/UX design using UI and CSS libraries like Ant design, Tailwind, and Argon Dashboard",
+  aboutPara4:
+    "- Hands on experience on developing the components using ReactJS and Redux needed for the application from the scratch",
+  aboutPara5: "- Experience developing backend services and RESTful APIs",
+  aboutPara6:
+    "- Implemented RESTful API to facilitate CRUD operation using Node.js and express framework",
+  aboutPara7:
+    "- Have extensive debugging/troubleshooting and bug issues fixing experience in complex React JS application",
 
+  aboutPara8: "- Familiar with creating Custom Reusable React Components",
+  aboutPara9: "- Work with open source UI storybook",
+  aboutPara10:
+    "- Hands on experience on MongoDB, MySQL, Docker, Google Cloud Platform technologies",
+  aboutPara11:
+    "- Experience in web and mobile testing using emulators, mobile devices and browsers like Safari, Chrome, Firefox, IE, Opera",
+  aboutPara12:
+    "- Strong understanding of quality processes and development of highly reliable software compliant with industry standards",
+
+  aboutImage: "https://i.postimg.cc/L5T082KW/Wechat-IMG26.jpg",
   //   End About Section ---------------------
 
   // Skills Section ---------------
@@ -129,34 +140,21 @@ export default {
 
   skills: [
     {
-      img: htmlIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
       img: cssIcon,
+      title: "Programming Languages",
+      para: "JavaScript, Python, Node.js, C#, Java, Typescript, SQL",
+    },
+
+    {
+      img: reactIcon,
+      title: "Web Technologies:",
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "React, CSS, Axios, AJAX, HTML, Node.js, Express.js, JSON, jQuery, DOM, Bootstrap, Redux, Apollo, Google Cloud Platform, GraphQL, MongoDB, Lodash, WebSocket",
     },
     {
       img: jsIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: reactIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: designIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: codeIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      title: "Frameworks and Tools",
+      para: "ReactJS, Gatsby, AngularJS, ExpressJS",
     },
   ],
 

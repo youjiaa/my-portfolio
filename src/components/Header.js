@@ -1,6 +1,7 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
+import githubIcon from "../images/github.svg"
 
 const Header = () => {
   return (
@@ -40,13 +41,15 @@ const Header = () => {
             <p>{data.headerParagraph}</p>
           </Fade>
           <Fade bottom>
-            <a
-              href={`mailto:${
-                data.contactEmail ? data.contactEmail : "hello@chetanverma.com"
-              }`}
-              className="primary-btn"
-            >
-              CONNECT WITH ME
+            <div className="social-icons">
+              <a href="https://github.com/youjiaa">
+                <img src={githubIcon} alt="icons"></img>
+              </a>
+            </div>
+          </Fade>
+          <Fade bottom>
+            <a href="https://github.com/youjiaa" className="primary-btn">
+              GITHUB
             </a>
           </Fade>
         </div>

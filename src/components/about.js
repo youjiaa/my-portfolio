@@ -12,6 +12,7 @@ const About = () => {
               <h1>About Me</h1>
             </Fade>
             <p>
+              <br />
               {data.aboutParaOne}
               <br></br>
               <br></br>
@@ -19,6 +20,33 @@ const About = () => {
               <br></br>
               <br></br>
               {data.aboutParaThree}
+              <br></br>
+              <br></br>
+              {data.aboutPara4}
+              <br></br>
+              <br></br>
+              {data.aboutPara5}
+              <br></br>
+              <br></br>
+              {data.aboutPara6}
+              <br></br>
+              <br></br>
+              {data.aboutPara7}
+              <br></br>
+              <br></br>
+              {data.aboutPara8}
+              <br></br>
+              <br></br>
+              {data.aboutPara9}
+              <br></br>
+              <br></br>
+              {data.aboutPara10}
+              <br></br>
+              <br></br>
+              {data.aboutPara11}
+              <br></br>
+              <br></br>
+              {data.aboutPara12}
             </p>
           </div>
           <div className="image-wrapper">
