@@ -112,8 +112,11 @@ export default {
     "- Over 4 years of IT experience including Web development, single page applications development using JAVASCRIPT, HTML, CSS, JQUERY, AJAX, and JSON technologies",
   aboutParaTwo:
     "- Experience in developing UI applications using HTML, HTML5, jQuery, and Bootstrap, AngularJS, ReactJS and JavaScript",
+  aboutPara13:
+    "- Proficient in Responsive design with pure CSS and SASS mixins",
   aboutParaThree:
-    "- Skilled in Responsive design and UI/UX design using UI and CSS libraries like Ant design, Tailwind, and Argon Dashboard",
+    "- Skilled in UI/UX design using UI and CSS libraries like Ant design, Tailwind, and Argon Dashboard",
+  aboutPara14: "- Advanced in React Functional component using Hooks and HOC",
   aboutPara4:
     "- Hands on experience on developing the components using ReactJS and Redux needed for the application from the scratch",
   aboutPara5: "- Experience developing backend services and RESTful APIs",
