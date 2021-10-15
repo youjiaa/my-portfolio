@@ -117,7 +117,7 @@ export default {
   aboutParaThree:
     "- Skilled in UI/UX design using UI and CSS libraries like Ant design, Tailwind, and Argon Dashboard",
   aboutPara15:
-    "Advanced in React Functional component using Hooks (useState, useEffect, useContext, useRef)",
+    "- Advanced in React Functional component using Hooks (useState, useEffect, useContext, useRef)",
   aboutPara14:
     "- Created reusable components and Implemented HOC to reuse the logic inside the lifecycle method",
   aboutPara4:
