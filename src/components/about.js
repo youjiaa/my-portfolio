@@ -25,6 +25,9 @@ const About = () => {
               {data.aboutParaThree}
               <br></br>
               <br></br>
+              {aboutPara15}
+              <br></br>
+              <br></br>
               {data.aboutPara14}
               <br></br>
               <br></br>

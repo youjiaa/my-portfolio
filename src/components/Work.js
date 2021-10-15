@@ -48,8 +48,8 @@ const Work = () => {
               using React and Redux. Developed drag and drop document editing
               module without any dnd library dependency. <br />
               <br />
-              - Created reusable components and Implemented HOC to reuse the
-              logic inside the lifecycle method. <br />
+              - Implemented Higher Order Component(HOC) to make loading and page
+              shifting animation components reusable. <br />
               <br />- Managed state within the app using Redux and persisted
               certain parts of the state to the device via Redux Persist. <br />
               <br />- Used Middleware like Redux-thunk in application to

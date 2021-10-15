@@ -116,7 +116,10 @@ export default {
     "- Proficient in Responsive design with pure CSS and SASS mixins",
   aboutParaThree:
     "- Skilled in UI/UX design using UI and CSS libraries like Ant design, Tailwind, and Argon Dashboard",
-  aboutPara14: "- Advanced in React Functional component using Hooks and HOC",
+  aboutPara15:
+    "Advanced in React Functional component using Hooks (useState, useEffect, useContext, useRef)",
+  aboutPara14:
+    "- Created reusable components and Implemented HOC to reuse the logic inside the lifecycle method",
   aboutPara4:
     "- Hands on experience on developing the components using ReactJS and Redux needed for the application from the scratch",
   aboutPara5: "- Experience developing backend services and RESTful APIs",
